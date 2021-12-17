@@ -62,8 +62,8 @@
   .nav_links li a::before,
   .nav_links li a::after {
     content: "";
-    height: 14px;
-    width: 14px;
+    height: 15px;
+    width: 15px;
     position: absolute;
     transition: all 0.35s ease;
     opacity: 0;
