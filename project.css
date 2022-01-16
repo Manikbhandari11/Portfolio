@@ -163,7 +163,7 @@ a {
     margin-left: 13vw;
   }
   .content-img img:hover {
-    filter: sepia(0);
+    filter: sepia(0.2);
   }
   .github {
     display: flex;
